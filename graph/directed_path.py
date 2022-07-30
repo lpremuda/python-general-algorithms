@@ -1,5 +1,7 @@
 import unittest
 
+# Refer to directed_graph.jpg for illustration of graph
+
 # Prompt: Given a directed graph, source node, and destination node, determine
 # if its possible (True or False) to go from source node to destination node
 

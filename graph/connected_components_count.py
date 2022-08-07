@@ -6,6 +6,9 @@ Created on Sat Jul 30 13:39:58 2022
 @author: lucas.premuda
 """
 
+# Refer to connected_components_count.jpg for illustration of graph
+# Find the number of connected components in an edges data structure
+
 import unittest
 
 edges = [
